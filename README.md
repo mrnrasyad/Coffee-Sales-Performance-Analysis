@@ -31,7 +31,7 @@ Kinerja penjualan mencapai puncaknya pada 2021 sebelum menurun tajam pada 2022 (
 # Insights Deep Dive
 ## **Products Performance Insight:**
 - Penjualan tinggi tetapi profit rendah, mengindikasikan masalah pada pricing atau cost structure.
-- Penurunan penjualan pada 2022 (profit turun sekitar 42,3%) sejalan dengan penurunan jumlah customer serta turunnya pembelian kopi Liberika dan Excelsa (varian dengan profit tertinggi), yang mengindikasikan potensi masalah pada promosi atau ketersediaan stok kedua produk tersebut.
+- Penurunan penjualan pada 2022 (profit turun sekitar 42,3%) sejalan dengan penurunan jumlah customer serta turunnya pembelian kopi Liberika (~36,15% profit) dan Excelsa (~29.82% profit), yang mengindikasikan potensi masalah pada promosi atau ketersediaan stok kedua produk tersebut.
 - Arabica dan Robusta mendominasi kuantitas penjualan tetapi menghasilkan profit rendah (sekitar 34,0% dari total profit), mengindikasikan isu pricing atau margin.
 
 <p align="center">
